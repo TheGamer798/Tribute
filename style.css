@@ -1,0 +1,18 @@
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius: 50%;
+}
+#index{
+    text-align: center;
+    font-family: 'comic sans ms';
+    background-color: steelblue;
+    color: gold;
+}
+#bibliography{
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: steelblue;
+    color: gold;
+}
